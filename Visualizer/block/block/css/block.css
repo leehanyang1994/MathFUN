@@ -26,17 +26,6 @@ body {
     top: 0;
 }
 
-.logo{
-    background-image: url(../img/Logo.svg);
-    background-size: cover;
-    z-index: 100;
-    position: fixed;
-    width: 90px;
-    height: 34px;
-    top:93%;
-    left: 2.5%;
-
-}
 
 .background-img {
     background-size: cover;
